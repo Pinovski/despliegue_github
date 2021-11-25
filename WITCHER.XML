@@ -1,0 +1,15 @@
+<pelicula>
+
+
+  <titulo>THE WITCHER</titulo>
+  <año>2019</año>
+      <director>LAUREN SCHMIDT</director>
+        <genero>ACCIÓN</genero>
+        <descripcion>Geralt de Rivia, un cazador de monstruos solitario, lucha por encontrar su lugar en un mundo donde las personas a menudo resultan más malvadas que las bestias.</descripcion>
+        <reparto>
+                    <artista>HENRY CAVILL</artista>
+                              <artista>ANNA SHAFER</artista>
+                                        <artista>FREYA ALAN</artista>
+                                        </reparto>
+                                        </pelicula>
+
